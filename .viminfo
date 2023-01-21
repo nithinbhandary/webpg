@@ -8,6 +8,7 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq
 :q
 
 # Search String History (newest to oldest):
@@ -21,9 +22,19 @@
 # Registers:
 
 # File marks:
-'0  1  0  /etc/sudoers
+'0  3  43  ~/public/script.js
+'1  1  0  /etc/sudoers
 
 # Jumplist (newest first):
+-'  3  43  ~/public/script.js
+-'  1  0  ~/public/script.js
+-'  1  0  /etc/sudoers
 -'  1  0  /etc/sudoers
 
 # History of marks within files (newest to oldest):
+
+> ~/public/script.js
+	"	3	43
+	^	3	44
+	.	3	43
+	+	3	43
