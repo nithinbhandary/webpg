@@ -1,11 +1,11 @@
 const quizData = [
     {
-        question: "Which language runs in testing ?",
-        a: "Java",
-        b: "C",
-        c: "Python",
-        d: "javascript",
-        correct: "d",
+        question: "1.Artificial Intelligence is about _",
+        a: "Playing a game on Computer",
+        b: "Making a machine Intelligent",
+        c: "Programming on Machine with your Own Intelligence",
+        d: " Putting your intelligence in Machine",
+        correct: "b",
     },
     {
         question: "What does CSS stand for?",
@@ -83,6 +83,7 @@ submitBtn.addEventListener('click', () => {
     if(answer) {
        if(answer === quizData[currentQuiz].correct) {
            score++
+           <h2>answer correct</h2>
        }
 
        currentQuiz++
