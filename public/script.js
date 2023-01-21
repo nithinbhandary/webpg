@@ -1,6 +1,6 @@
 const quizData = [
     {
-        question: "Which language runs innnn?",
+        question: "Which language runs in testing ?",
         a: "Java",
         b: "C",
         c: "Python",
