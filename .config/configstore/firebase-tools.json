@@ -1,0 +1,37 @@
+{
+	"analytics-uuid": "9fbe6208-9827-47df-a438-e61d7e739a15",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1674273214480
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "101728812545678731214",
+		"email": "bhandary0010@gmail.com",
+		"email_verified": true,
+		"at_hash": "-J9LKZTskbQZ05e5eKY2Ug",
+		"iat": 1674273275,
+		"exp": 1674276875
+	},
+	"tokens": {
+		"expires_at": 1674276874435,
+		"access_token": "ya29.a0AX9GBdUHEpEI7BBTA9zrM7AgMn-BFU3g8ImkdBLINRAaniabUA303pkqC6b2x5b0cpWLPGzGjjJoIVXlLGZKyHTz1F5eRO_I-po7x9KVqMlaQ8Ja14ryX1zV87ahdl4wnDXuHc0-3U6EgY3e7N619LGjbl7PCkeYWgYIaCgYKAe4SARESFQHUCsbCKFlNuDk4jwXoXkvR5mf4Qw0171",
+		"expires_in": 3599,
+		"refresh_token": "1//06L43WyLC91JnCgYIARAAGAYSNwF-L9Iro65P3JOZkoaD_T6AQjRss4JcSKCwWCIM7Spy30-AEXmiwSXagICHJqb3efGPb-BULZ0",
+		"scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly openid https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImQzN2FhNTA0MzgxMjkzN2ZlNDM5NjBjYTNjZjBlMjI4NGI2ZmMzNGQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAxNzI4ODEyNTQ1Njc4NzMxMjE0IiwiZW1haWwiOiJiaGFuZGFyeTAwMTBAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiItSjlMS1pUc2tiUVowNWU1ZUtZMlVnIiwiaWF0IjoxNjc0MjczMjc1LCJleHAiOjE2NzQyNzY4NzV9.k20A2vlFGCL3ga1kC-1pix_I0lSmOAfd78MJ2vbdRauBOQLGU54v3P3eU3_O-BwRSwI3DwJe7X2ISLqSLTrGV1VRG7jsMvRntzPgiAdau8B8wKPA-hrRoWkLzh478Iouuhyc5dqHMILrIqVILDiFBmrkrYcaZNbtCs4fGlvx9q5eKmvNtaqfYp12t0-R1OpK4BxZffw4-X4vOKn-gsE6NPirx3HkB0bx_WH_g4uKBiLstFT6CocJm3QG-6ypIkleENOeSBph5Znmycfrxn9jVHq9c-RZUVN3XxXKuB8d4w0Z4zlvPW7A-c_9EVnCeRGhmkmyLMF8jz13mg2jBGyO8A"
+	},
+	"activeProjects": {
+		"/home/nithinbhandry_gcp": "question-bank-331c7"
+	}
+}
